@@ -1,0 +1,19 @@
+c:\users\odun\documents\visual studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+c:\users\odun\documents\visual studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+c:\users\odun\documents\visual studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\odun\documents\visual studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.Form1.resources
+c:\users\odun\documents\visual studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.Properties.Resources.resources
+c:\users\odun\documents\visual studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\odun\documents\visual studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\odun\documents\visual studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.exe
+c:\users\odun\documents\visual studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.pdb
+c:\users\odun\documents\visual studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.kolaytarla.resources
+C:\Users\odun\Documents\Visual Studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.isim.resources
+C:\Users\odun\Documents\Visual Studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.ortatarla.resources
+C:\Users\odun\Documents\Visual Studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.zortarla.resources
+C:\Users\odun\Documents\Visual Studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.skor.resources
+C:\Users\odun\Documents\Visual Studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe.config
+C:\Users\odun\Documents\Visual Studio 2010\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.Form2.resources
+C:\Users\onratak\Desktop\Mayın Tarlası Kaynak Kod\son hali\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.csprojAssemblyReference.cache
+C:\Users\onratak\Desktop\Mayın Tarlası Kaynak Kod\son hali\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.exe
+C:\Users\onratak\Desktop\Mayın Tarlası Kaynak Kod\son hali\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.pdb
